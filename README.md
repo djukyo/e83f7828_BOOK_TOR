@@ -1,4 +1,4 @@
-# c90e7d8249_APUE_UNIX环境高级编程_W.Richard Stevens
+# c90e7d8249\_APUE\_UNIX环境高级编程\_W.Richard Stevens
 
 ## 概述
 
@@ -19,7 +19,7 @@
 | 定价       | 128      |      |
 | link       |          |      |
 | Source     |          |      |
-| Cover      | ![](Markdown/assets/APUE.png)                |      |
+| Cover      | ![](Cover.jpg) |      |
 
 ## 日志
 
