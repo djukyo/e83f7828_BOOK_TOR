@@ -1,24 +1,21 @@
-# c90e7d8249\_APUE\_UNIX环境高级编程\_W.Richard Stevens
+# e83f7828\_TOR\_Rust编程之道\_张汉东
 
 ## 概述
 
 | topic      | describe | note |
 | ---------- | -------- | ---- |
-| 英文书名   | Advanced Programming in the UNIX Environment |      |
-|            |          |      |
-| 中文书名   | UNIX环境高级编程 |      |
-|            |          |      |
-| 第一作者   | W.Richard Stevens |      |
-|            |          |      |
-| 第一译者   | 戚正伟   |      |
-|            |          |      |
-| 原出版社   | Peason   |      |
-| 翻译出版社 | 人民邮电出版社 |      |
-| ISBN       | 978-7-115-35211-8 |      |
-| 日期       | 2014/6   |      |
+| 英文书名   |  |      |
+| 中文书名   | Rust编程之道  |      |
+| 第一作者   | 张汉东 |      |
+| 第一译者   |    |      |
+| 原出版社   | Broadview   |      |
+| 翻译出版社 |  |      |
+| ISBN       | 978-7-121-35485-4 |      |
+| 日期       | 2019/1 |      |
 | 定价       | 128      |      |
 | link       |          |      |
-| Source     |          |      |
+| Source     | https://github.com/ZhangHanDong/tao-of-rust-codes |      |
+|  | http://www.broadview.com.cn/book/5909 | |
 | Cover      | ![](Cover.jpg) |      |
 
 ## 日志
